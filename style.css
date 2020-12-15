@@ -1,21 +1,57 @@
-    body {
-    margin: 0;
+body {
+   margin: 0;
 }
  
+top{
+  position: absolute;
+  top: 10px;
+  left: 230px;
+}
+
+controller{
+  position: absolute;
+  top: 10px;
+  left: 530px;
+}
+
+ham{
+  position: absolute;
+  top: 10px;
+  left: 830px;
+}
+harold{
+  position: absolute;
+  top: 311px;
+  left: 230px;
+}
+
+mario{
+  position: absolute;
+  top: 311px;
+  left: 530px;
+}
+
+liked{
+  position:absolute;
+  top: 311px;
+  left: 830px;
+}
+
 bar {
-    position: absolute;
-    left: 225px;
+   position: absolute;
+   left: 225px;
 }
  
 h {
-    position: absolute;
-    top: 0px;
-    left: 230px;
+   position: absolute;
+   top: 0px;
+   left: 230px;
     
 }
  
 a  {cursor: default;
-    color: white;}
+    color: white;
+}
     
  
 extra {
